@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/4f6519cba5c5eaa891f19f231acbc887.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"</a>
+   <img align="right" alt="Rafa-pic" height="100" width="100" style="border-radius:50px;" src="https://i.picasion.com/pic92/4f6519cba5c5eaa891f19f231acbc887.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"</a>
 </div>
  
   ##
